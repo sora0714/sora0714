@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Andy</a></h1>
+<h1 align="center"> Hi, I'm Andy</a></h1>
 <br/>   
     I'm from United Kingdom and currently working as a Full-time Blockchain Developer at Upwork. You can find me on Talagram, or on LinkedIn.
 <br/>
