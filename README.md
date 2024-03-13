@@ -5,7 +5,7 @@
     - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
     <br>
-    - 〆 Hold a Bachelor's degree in Computer Science and electronic Science🎓
+    - 〆 Holds a Bachelor's degree in Computer Science and electronic Science🎓
     <br>
     <br>
     - 〆 Creating open-source web, and desktop apps 🛠️
