@@ -68,14 +68,14 @@
 <table width="100%">
     <tr>
         <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=CrazyDream000&show_icons=true&hide_border=true" /> 
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sora0714&show_icons=true&hide_border=true" /> 
         </td>
         <td> 
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyDream000&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sora0714&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
         </td>
     </tr>
     <table>
     <div align="center"  width="100%">
-        <img src="https://github-profile-trophy.vercel.app/?username=CrazyDream000&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
+        <img src="https://github-profile-trophy.vercel.app/?username=sora0714&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
     </div>
     <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
